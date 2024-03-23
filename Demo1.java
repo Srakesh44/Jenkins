@@ -10,5 +10,8 @@ public class Demo1{
         System.out.println("Date: " + datecreation);
         System.out.println("hellooooo");
         System.out.println("NEw commit after automating in jenkins");
+
+        Student student = new Student();
+        student.sayHello();
     }
 }

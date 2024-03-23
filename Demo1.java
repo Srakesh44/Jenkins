@@ -9,5 +9,6 @@ public class Demo1{
         String datecreation = dateCreated.toString();
         System.out.println("Date: " + datecreation);
         System.out.println("hellooooo");
+        System.out.println("NEw commit after automating in jenkins");
     }
 }

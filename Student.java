@@ -8,7 +8,7 @@ public class Student {
     }
 
     public void sayHelloFromAWS(){
-        System.out.println("Hi, I am a student learning jenkins");
+        System.out.println("Hi, I am a student learning jenkins from AWs");
     }
     
 }

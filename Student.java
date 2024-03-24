@@ -6,5 +6,9 @@ public class Student {
     public void sayHello(){
         System.out.println("Hi, I am a student learning jenkins");
     }
+
+    public void sayHelloFromAWS(){
+        System.out.println("Hi, I am a student learning jenkins");
+    }
     
 }

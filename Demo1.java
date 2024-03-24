@@ -13,5 +13,6 @@ public class Demo1{
 
         Student student = new Student();
         student.sayHello();
+        student.sayHelloFromAWS();
     }
 }
